@@ -1,5 +1,8 @@
 Tính tổng ước của số nguyên dương N. Độ phức tạp mong đợi O(sqrt(N))
-
+Input 01
+28
+Output 01
+56
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
